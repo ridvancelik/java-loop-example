@@ -1,5 +1,6 @@
 package streamswithlists;
 
+// Don't forget to increase heap size for huge calculations EX: -Xmx8192m
 public class RunTest {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello streams with lists");

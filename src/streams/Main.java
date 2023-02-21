@@ -1,5 +1,6 @@
 package streams;
 
+// Don't forget to increase heap size for huge calculations EX: -Xmx8192m
 /*
   Make 100, 1k, 10k, 100k, 1m elements with 100, 1k, 10k, 100k, 1m randomly generated numbers respectively.
   What to do:
