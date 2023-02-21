@@ -1,9 +1,0 @@
-Why migrate to 17
-https://hazar-nazari.medium.com/why-migrate-to-java-17-4618764ad99a
-
-Major diffs between 11 and 17
-https://dzone.com/articles/whats-new-between-java-11-and-java-17
-
-Java 11-16-17 benchmarking examples
-https://www.ustermetrics.com/post/how-fast-is-java-17-for-number-crunching/
-https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html
